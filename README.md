@@ -1,3 +1,7 @@
+
+
+The project report contents:
+
 1 Theory
 <br/>
 1.1 Principal Component Analysis
