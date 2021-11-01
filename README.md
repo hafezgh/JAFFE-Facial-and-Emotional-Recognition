@@ -1,4 +1,4 @@
-
+# Comparison of ML methods for Facial and Emotional Recognition on JAFFE dataset 
 
 The project report contents:
 
